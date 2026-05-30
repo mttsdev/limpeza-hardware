@@ -6,7 +6,7 @@ Mais do que apenas limpar, encarei esse momento como uma oportunidade para abrir
 
 ---
 
-## 🔍 O Ponto de Partida (E o incômodo com a poeira)
+## Motivo da Limpeza
 
 O principal motivo de eu ter parado tudo para essa manutenção foi o estado dos meus fans frontais. Como dá para ver na foto abaixo, a poeira já estava acumulada nas pás, o que com certeza estava sufocando o fluxo de ar e esquentando os componentes internos.
 
@@ -52,8 +52,3 @@ No fim, todo o esforço valeu a pena. O computador não só ficou com uma aparê
 <p align="center">
   <img src="assets/pc.jpeg" alt="Meu setup pronto, limpo e de volta ao trabalho!" width="450">
 </p>
-
----
-
-### 🧠 Lição que fica:
-A tecnologia acontece no software, mas roda no hardware. Entender o ambiente físico onde nossos sistemas operam é fundamental para ser um profissional de TI completo. Se você tem medo de abrir seu PC, recomendo começar devagar, documentar o processo e aprender com cada parafuso!
