@@ -10,7 +10,9 @@ Mais do que apenas limpar, encarei esse momento como uma oportunidade para abrir
 
 O principal motivo de eu ter parado tudo para essa manutenção foi o estado dos meus fans frontais. Como dá para ver na foto abaixo, a poeira já estava acumulada nas pás, o que com certeza estava sufocando o fluxo de ar e esquentando os componentes internos.
 
-![Meus fans precisando urgentemente de uma limpeza](assets/fans-sujos.jpeg)
+<p align="center">
+  <img src="assets/fans-sujos.jpeg" alt="Meus fans precisando urgentemente de uma limpeza" width="450">
+</p>
 
 ---
 
@@ -18,12 +20,19 @@ O principal motivo de eu ter parado tudo para essa manutenção foi o estado dos
 
 Coloquei o PC na bancada, deitei o gabinete com cuidado e tirei a tampa lateral. Foi muito maneiro olhar para a placa-mãe, identificar o Air Cooler da CPU, ver a distribuição dos cabos da fonte e mapear mentalmente o caminho que o ar faz ali dentro.
 
-![Primeira visão do PC aberto na bancada](assets/pc-deitado.jpeg)
-![Analisando os componentes e conexões por outro ângulo](assets/pc-deitado-outro-angulo.jpeg)
+<p align="center">
+  <img src="assets/pc-deitado.jpeg" alt="Primeira visão do PC aberto na bancada" width="450">
+</p>
 <br>
-Para ir um pouco além da limpeza superficial, removi as memórias RAM para entender melhor os componentes e como funciona seu encaixe. <br>
+<p align="center">
+  <img src="assets/pc-deitado-outro-angulo.jpeg" alt="Analisando os componentes e conexões por outro ângulo" width="450">
+</p>
+<br>
+Para ir um pouco além da limpeza superficial, removi as memórias RAM para entender melhor os componentes e como funciona seu encaixe. <br><br>
 
-![Aproveitando para estudar o design da memória RAM de perto](assets/ram.jpeg)
+<p align="center">
+  <img src="assets/ram.jpeg" alt="Aproveitando para estudar o design da memória RAM de perto" width="450">
+</p>
 
 ---
 
@@ -40,8 +49,9 @@ No total foram cerca de **5 horas** nesse processo. No meio do caminho, nem tudo
 ## Resultado Final
 
 No fim, todo o esforço valeu a pena. O computador não só ficou com uma aparência renovada e muito mais bonita na mesa, como também passou a rodar de forma mais silenciosa e refrigerada, o que faz toda a diferença na hora de focar nos estudos.
-
-![Meu setup pronto, limpo e de volta ao trabalho!](assets/pc.jpeg)
+<p align="center">
+  <img src="assets/pc.jpeg" alt="Meu setup pronto, limpo e de volta ao trabalho!" width="450">
+</p>
 
 ---
 
